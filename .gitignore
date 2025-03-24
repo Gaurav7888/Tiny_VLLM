@@ -55,6 +55,9 @@ cover/
 *.mo
 *.pot
 
+# large weight file
+*.bin
+
 # Django stuff:
 *.log
 local_settings.py

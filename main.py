@@ -17,7 +17,7 @@ def main():
     model = GPT2Model(config)
     infer_start_time = time.time()
     infer_per_token_time = []
-    new_tokens_number = 10
+    new_tokens_number = 1
 
     with torch.no_grad():
         for i in range(new_tokens_number):
