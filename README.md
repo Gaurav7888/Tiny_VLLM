@@ -1,7 +1,7 @@
 # Tiny_vLLM
 
 
-Tiny vLLM is an attempt to build an inference server from scratch, inspired by projects like **TinyTorch** and **TinyGPT**. With the growing need for efficient and lightweight inference solutions, Tiny vLLM aims to provide a minimal yet powerful foundation for serving large language models (LLMs) with maximum flexibility and control.
+Tiny vLLM is an attempt to build an inference server from scratch, inspired by projects like **Tinygrad** and **TinyGPT**. With the growing need for efficient and lightweight inference solutions, Tiny vLLM aims to provide a minimal yet powerful foundation for serving large language models (LLMs) with maximum flexibility and control.
 
 ## 🚀 Inspiration
 
